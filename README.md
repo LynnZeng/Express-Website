@@ -1,2 +1,2 @@
 # Express-Website
-An skeleton website created using Express framework
+A skeleton website created using Express framework
